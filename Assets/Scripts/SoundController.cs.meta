@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ca671712e9fbd443c9c63723b70f31e2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - GetShield: {fileID: 8300000, guid: a11f29b8ca24247b0bcb1fb9d4169b4b, type: 3}
+  - GetTenShield: {fileID: 8300000, guid: aa348f776c7354f36917fef10c6b48d1, type: 3}
+  - MonsterAttack: {fileID: 8300000, guid: 31572d31fe9bc4d4d909f5a91c767e4a, type: 3}
+  - GetHurt: {fileID: 8300000, guid: a9e925ca095e74c6781bc9cceafc6743, type: 3}
+  - ButtonClick: {fileID: 8300000, guid: 4f13633ea56974e6dbf63eb99fa6c851, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
